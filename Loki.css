@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.PAI{
+ height: 250px;
+ width: 1700px;
+ background: linear-gradient(#FDFAFA 0%, #B7CEE9 50%, #70B1E6 100%)
+}
+.MÃE{
+padding: 30px;
+
+}
+
+.imagem{
+    width: 150px;
+
+
+}
+
+
