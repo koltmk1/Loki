@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 .PAI{
+    display: flex;
+    
  height: 250px;
  width: 1700px;
  background: linear-gradient(#FDFAFA 0%, #B7CEE9 50%, #70B1E6 100%)
@@ -13,10 +15,108 @@ padding: 30px;
 
 }
 
+.ui{
+    text-decoration: none;
+    color: black;
+      font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    
+}
+
+.ui:hover{
+    color: white;
+      font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+"wdth" 100;
+}
+
 .imagem{
+   margin-left: 60px;
     width: 150px;
 
 
 }
+.pia{
+    margin-left: 70px;
+    gap: 90px;
+    display: flex;
+padding: 100px;
+
+}
+.pia li a{
+    font-size: 1.6rem;
+text-decoration: none;
+display: inline-block;
+}
+.pia li{
+    display: inline-block;
+}
+
+.imagem2{
+    position: absolute;
+    top: 300px;
+    width: 970px;
+box-shadow: 15px 20px  #70B1E6
+    
+    }
+.POI{
+          font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+"wdth" 100;
+    position: absolute;
+    margin-left: 1060px;
+    margin-top: 220px;
+    font-size: 25px;
+color: rgb(0, 0, 0);
+
+}
+.PIU{
 
 
+
+
+
+}
+
+.ai{
+    display: flex;
+
+   
+
+}
+.Block{
+    background-color: #70B1E6;
+width: 140px;
+height: 70px;
+ margin-left: 1200px;
+    margin-top: 420px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-size: 1.5rem;
+ border: 3px solid rgb(0, 0, 0);
+}
+.POU{
+      font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+"wdth" 100;
+font-size: 18px;
+
+}
